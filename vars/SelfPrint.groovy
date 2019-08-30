@@ -1,6 +1,5 @@
-
 def printName(name){
-	echo "${name}"
-}
+	print "${name}"
+	}
 
 
